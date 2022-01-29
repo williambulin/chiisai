@@ -1,0 +1,12 @@
+--std=c++2a
+
+-I.
+
+-Weverything
+-Wno-c++98-compat
+-Wno-pre-c++20-compat-pedantic
+-Wno-braced-scalar-init
+-Wno-c++17-extensions
+-Wno-c++98-compat-pedantic
+-Wno-exit-time-destructors
+-Wno-global-constructors

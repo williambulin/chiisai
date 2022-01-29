@@ -1,0 +1,16 @@
+*
+!*/
+
+# Source files
+!*.cpp
+!*.hpp
+
+# Repository files
+!/.clang-format
+!/.gitignore
+!/compile_flags.txt
+!/LICENSE
+!/README.md
+
+# Ignore
+# example/**
